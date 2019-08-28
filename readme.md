@@ -9,3 +9,7 @@ ps -aux | grep python
 # 关闭 
 
 kill 
+
+# 运行界面
+
+![](./web.png)
